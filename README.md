@@ -2,5 +2,5 @@
 <!-- <img src="math.jpeg" width="400"> -->
 ![description](math.jpeg)
 
-![description](https://freesvg.org/img/Smith-Chart-Circles.png)
+![description](https://www.impedans.com/wp-content/uploads/2022/10/Smith-Chart-5.png.webp)
 
