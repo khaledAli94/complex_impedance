@@ -1,2 +1,2 @@
 # complex_impedance
-<img src="math.jpg" width="400">
+<img src="math.jpeg" width="400">
