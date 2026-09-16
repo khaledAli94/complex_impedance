@@ -3,6 +3,7 @@
 
 <!-- <img src="math.jpeg" width="400"> -->
 ![description](math.jpeg)
+![description](sin_tri_hyp_derr.png)
 ![description](analog_meter_driver.png)
 ![description](colpitts_oscilator.png)
 ![description](https://www.impedans.com/wp-content/uploads/2022/10/Smith-Chart-5.png.webp)
